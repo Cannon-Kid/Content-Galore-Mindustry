@@ -1,0 +1,8 @@
+{
+	"type": "material",
+	"name": "Cadmium",
+	"description": "Used for power stuff.",
+	"hardness": 1,
+	"cost": 1,
+	"color": "e1fefc"
+}
