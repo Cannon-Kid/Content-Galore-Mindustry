@@ -4,5 +4,6 @@ displayName: "[yellow]Content Galore"
 author: [pink]Cannon-Kid
 description: "Lots of cool and nerdy stuff get added."
 version: "[orange]1.0"
-minGameVersion: "146" hidden: false
+minGameVersion: "146"
+hidden: false
 }
