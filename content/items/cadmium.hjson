@@ -1,8 +1,8 @@
 {
 	"type": "material",
 	"name": "Cadmium",
-	"description": "Used for power stuff.",
+	"description": "Used in power-related things, as well as metal coating, alloys, and pigments.",
 	"hardness": 1,
 	"cost": 1,
-	"color": "e1fefc"
+	"color": "b0bac0"
 }
