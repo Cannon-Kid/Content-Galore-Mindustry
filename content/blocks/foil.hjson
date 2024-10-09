@@ -5,15 +5,15 @@
   "range": 144,
   "reload": 30,
   "shootSound": "spark",
-  "shootCone": 10,
+  "shootCone": 5,
   "shootType": {
     "type": "LightningBulletType",
-    "lightningLength": 20,
-    "damage": 45
+    "lightningLength": 21,
+    "damage": 35
   },
   "rotateSpeed": 100,
   "consumes": {
-    "power": 5,
+    "power": 7,
     "coolant": {
       "amount": 0.1 
     }
@@ -26,15 +26,15 @@
   "requirements": [
     {
       "item": "copper",
-      "amount": 45
+      "amount": 85
     },
     {
       "item": "lead",
-      "amount": 20
+      "amount": 40
     },
     {
       "item": "tin",
-      "amount": 55
+      "amount": 125
     }
   ],
   "category": "turret",
