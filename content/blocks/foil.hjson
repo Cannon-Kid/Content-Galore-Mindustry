@@ -44,15 +44,15 @@
   "parent": "arc"
   "requirements": [
     "item": "copper",
-    "amount": 11250
+    "amount": "11250"
   ]
   [
     "item": "lead",
-    "amount": 4500
+    "amount": "4500"
   ]
   [
     "item": "tin",
-    "amount": 15500
+    "amount": "15500"
   ]
 }
 }
