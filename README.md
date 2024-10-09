@@ -1,4 +1,5 @@
-- Currently testing Foil in Alpha v0.1
+- Balanced Foil in Alpha v0.1
+- Fixing owo image loading error
 
 Total things finished: 2
 
