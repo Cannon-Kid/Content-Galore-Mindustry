@@ -3,13 +3,13 @@
   "description": "Shoots pure electricity lightning. Great at handling low-tier units without needing items. Horrible at defending against strong enemies. When many other Foil turrets are placed, they can dish out lots of damage together.",
   "size": 1,
   "range": 144,
-  "reload": 30,
+  "reload": 60,
   "shootSound": "spark",
   "shootCone": 5,
   "shootType": {
     "type": "LightningBulletType",
     "lightningLength": 21,
-    "damage": 35
+    "damage": 52
   },
   "rotateSpeed": 100,
   "consumes": {
