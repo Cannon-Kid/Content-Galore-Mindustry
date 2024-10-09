@@ -12,3 +12,5 @@ Item Cadmium: Used in power-related things, as well as metal coating, alloys, an
 Item Tin: Used to coat other metals, stopping corrosion. It can also make metals superconductable.
 
 Turret Foil: Shoots pure electricity lightning. Great at handling low-tier units without needing items. Horrible at defending against strong enemies. When many other Foil turrets are placed, they can dish out lots of damage together.
+
+![image](https://github.com/user-attachments/assets/d7ffe97d-69c4-4ed9-b2ad-987cc43f6179)
