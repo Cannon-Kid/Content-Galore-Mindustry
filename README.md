@@ -1,5 +1,5 @@
 - Balanced Foil in Alpha v0.11
-- Fixing owo image loading error
+- Fixed image loading error, just had to remove capital letters from .pngs
 
 Total things finished: 3
 
