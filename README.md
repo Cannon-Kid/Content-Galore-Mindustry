@@ -1,4 +1,4 @@
-- Balanced Foil in Alpha v0.1
+- Balanced Foil in Alpha v0.11
 - Fixing owo image loading error
 
 Total things finished: 2
