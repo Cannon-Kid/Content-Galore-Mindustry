@@ -41,8 +41,8 @@
   "type": "PowerTurret",
   "health": 220,
   "research": {
-  parent: arc
-  requirements: [
+  "parent": "arc"
+  "requirements": [
     "item": "copper",
     "amount": 11250
   ]
