@@ -1,6 +1,6 @@
 {
   "name": "Foil",
-  "description": "Shoots pure electricity lightning. Great at handling low-tier units without needing items. Horrible at defending against strong enemies. When many other Foil turrets are placed, they can dish out lots of damage together.",
+  "description": "Shoots high-voltage lightning. Very expensive as a tier 1 turret. Great at handling low-tier units without needing items. Horrible at defending against strong enemies. When many other Foil turrets are placed, they can dish out lots of damage together.",
   "size": 1,
   "range": 144,
   "reload": 60,
@@ -9,7 +9,7 @@
   "shootType": {
     "type": "LightningBulletType",
     "lightningLength": 21,
-    "damage": 52
+    "damage": 40
   },
   "rotateSpeed": 100,
   "consumes": {
@@ -26,19 +26,33 @@
   "requirements": [
     {
       "item": "copper",
-      "amount": 85
+      "amount": 125
     },
     {
       "item": "lead",
-      "amount": 40
+      "amount": 50
     },
     {
       "item": "tin",
-      "amount": 125
+      "amount": 155
     }
   ],
   "category": "turret",
   "type": "PowerTurret",
-  "health": 380,
-  "research": "arc"
+  "health": 220,
+  "research": {
+  parent: arc
+  requirements: [
+    "item": "copper",
+    "amount": 11250
+  ]
+  [
+    "item": "lead",
+    "amount": 4500
+  ]
+  [
+    "item": "tin",
+    "amount": 15500
+  ]
+}
 }
