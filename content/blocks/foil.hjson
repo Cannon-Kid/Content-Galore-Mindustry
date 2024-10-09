@@ -40,19 +40,5 @@
   "category": "turret",
   "type": "PowerTurret",
   "health": 220,
-  "research": {
   "research": "arc"
-  "requirements": [
-    "item": "copper",
-    "amount": 11250
-  ]
-  [
-    "item": "lead",
-    "amount": 4500
-  ]
-  [
-    "item": "tin",
-    "amount": 15500
-  ]
-}
 }
