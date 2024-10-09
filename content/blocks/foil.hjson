@@ -18,8 +18,8 @@
       "amount": 0.1 
     }
   },
-  "targetAir": true,
-  "targetGround": true,
+  "targetAir": "true",
+  "targetGround": "true",
   "heatColor": "ff0000",
   "shootEffect": "lightningShoot",
   "recoil": 0.5,
