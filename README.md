@@ -1,4 +1,4 @@
-- Balanced Foil in Alpha v0.11
+- Balanced Foil in Alpha v0.1
 - Fixed image loading error, just had to remove capital letters from .pngs
 
 Total things finished: 3
