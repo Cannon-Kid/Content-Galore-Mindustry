@@ -1,7 +1,7 @@
 - Balanced Foil in Alpha v0.11
 - Fixing owo image loading error
 
-Total things finished: 2
+Total things finished: 3
 
 Have I figured out GitHub: No
 
