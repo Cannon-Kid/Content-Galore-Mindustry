@@ -1,6 +1,6 @@
 - Re-Sprited into Mindustry Style
-- Tin Modeler Created and Buffed, Allows for Unlocking Tin and Foil in Campaign
-- Jaws Created
+- Tin Modeler Created and Buffed, Allows for Unlocking Tin, Foil, and Jaws in Campaign
+- Jaws Created and Balenced
 - Balenced Foil AGAIN
 - Buffed Tin Cost from 0.5 to 0.1
 
