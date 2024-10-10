@@ -88,11 +88,11 @@
     }
   },
   "requirements": [
-    "copper/120",
-    "lead/185",
-    "graphite/25",
-    "silicon/20",
-    "tin/350"
+    "copper/50",
+    "lead/135",
+    "graphite/20",
+    "silicon/15",
+    "tin/250"
   ],
   "shootSound": "shootAltLong",
   "category": "turret",
