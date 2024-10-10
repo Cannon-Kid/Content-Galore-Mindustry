@@ -2,10 +2,13 @@
   "type": "ItemTurret",
   "name": "Jaws",
   "description": "Don't get this turret confused with mere animals or movies, because this turret is dangerous. Fires clumps of bullets at enemies with inaccuracy.",
-  "health": 1100,
+  "health": 1050,
   "maxAmmo": 10,
   "reload": 90,
   "range": 160,
+  "coolant": {
+  "amount": 0.3
+              }
   "shoot": {
     "type": "ShootAlternate",
     "shots": 20,
@@ -91,7 +94,6 @@
     "copper/30",
     "lead/95",
     "graphite/20",
-    "silicon/15",
     "tin/260"
   ],
   "shootSound": "shootAltLong",
