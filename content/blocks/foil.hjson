@@ -9,11 +9,11 @@
   "shootType": {
     "type": "LightningBulletType",
     "lightningLength": 21,
-    "damage": 40
+    "damage": 37
   },
   "rotateSpeed": 100,
   "consumes": {
-    "power": 7,
+    "power": 6,
     "coolant": {
       "amount": 0.1 
     }
@@ -26,15 +26,15 @@
   "requirements": [
     {
       "item": "copper",
-      "amount": 125
+      "amount": 165
     },
     {
       "item": "lead",
-      "amount": 50
+      "amount": 80
     },
     {
       "item": "tin",
-      "amount": 155
+      "amount": 235
     }
   ],
   "category": "turret",
