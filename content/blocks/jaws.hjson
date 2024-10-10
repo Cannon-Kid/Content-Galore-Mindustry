@@ -1,7 +1,7 @@
 {
   "type": "ItemTurret",
   "name": "Jaws",
-  "description": "Don't get this turret confused with mere animals or movies, because this turret is dangerous. Fires clumps of bullets at enemies with inaccuracy.",
+  "description": "Don't get this turret confused with mere animals or movies, because this turret is dangerous. Fires clumps of bullets at enemies with inaccuracy. Powerful alone, even deadlier in groups.",
   "health": 1050,
   "maxAmmo": 10,
   "reload": 90,
