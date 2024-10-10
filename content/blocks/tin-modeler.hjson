@@ -4,7 +4,6 @@
   "size": 2,
   "hasPower": "true",
   "hasItems": "true",
-  "health": 400,
   "hasLiquids": "false",
   },
   "craftTime": 30,
@@ -12,23 +11,34 @@
     "power": 2,
     "items": {
       "items": [
-        "copper/1",
-        "lead/3"
+        "item": "copper",
+        "amount": 1
+        "item": "lead",
+        "amount": 2
       ]
     }
   },
-  "requirements": [
-    "copper/150",
-    "lead/200",
-    "graphite/25",
+  "requirements":[
+    {
+      "item": "copper",
+      "amount": 125
+    },
+    {
+      "item": "lead",
+      "amount": 175
+    },
+    {
+      "item": "graphite",
+      "amount": 25
+    }
   ],
   "category": "crafting",
   "research": "graphite-press",
   "outputItem": {
     "item": "tin",
-    "amount": 5
+    "amount": 4
   },
-  "health": 375,
+  "health": 350,
   "loopSound": "smelter",
   "loopSoundVolume": 0.35
 }
