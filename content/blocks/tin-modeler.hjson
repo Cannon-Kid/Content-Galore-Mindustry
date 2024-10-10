@@ -1,10 +1,13 @@
 {
+  "category": "crafting",
   "name": "Tin Modeler",
   "description": "Creates tin from copper and lead. Studies don't show how this is possible, but it might be from the power inputted and the machinery that it uses.",
   "size": 2,
+  "health": 350,
   "hasPower": true,
   "hasItems": true,
   "hasLiquids": false,
+  "research": "graphite-press",
   "craftTime": 30,
   "itemCapacity": 10,
   "consumes": {
@@ -20,12 +23,14 @@
           "amount": 2
         }
       ]
+            },
+              },
+
     "outputItem": {
       "item": "tin",
       "amount": 4
-    }
-  },
-  "requirements": [
+                  }
+   "requirements": [
         {
           "item": "copper",
           "amount": 125
@@ -39,8 +44,4 @@
           "amount": 1
         }
       ]
-  "category": "crafting",
-  "research": "graphite-press",
-  },
-  "health": 350
 }
