@@ -20,6 +20,9 @@
           "amount": 2
         }
       ]
+    "outputItem": {
+      "item": "tin",
+      "amount": 4
     }
   },
   "requirements": [
@@ -38,9 +41,6 @@
   ],
   "category": "crafting",
   "research": "graphite-press",
-  "outputItem": {
-    "item": "tin",
-    "amount": 4
   },
   "health": 350
 }
