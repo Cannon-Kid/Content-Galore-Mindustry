@@ -23,7 +23,7 @@
   "ammoTypes": {
     "copper": {
        "type": "BasicBulletType",
-      "damage": 15,
+      "damage": 7,
       "ammoMultiplier": 1,
       "speed": 5,
       "lifetime": 36,
@@ -35,7 +35,7 @@
       "pierce": "false"
     },
     "graphite": {
-      "damage": 33,
+      "damage": 16,
       "ammoMultiplier": 1,
       "speed": 4,
       "lifetime": 45,
@@ -48,7 +48,7 @@
       "pierce": "false"
     },
     "silicon": {
-      "damage": 29,
+      "damage": 14,
       "ammoMultiplier": 2,
       "speed": 6,
       "lifetime": 30,
@@ -61,7 +61,7 @@
       "pierce": "true"
     },
     "plastanium": {
-      "damage": 42,
+      "damage": 21,
       "ammoMultiplier": 2,
       "speed": 6,
       "lifetime": 30,
@@ -74,7 +74,7 @@
       "pierce": "false"
     },
     "tin": {
-      "damage": 19,
+      "damage": 9,
       "ammoMultiplier": 5,
       "speed": 11,
       "lifetime": 16,
@@ -92,7 +92,7 @@
     "lead/135",
     "graphite/20",
     "silicon/15",
-    "tin/250"
+    "tin/320"
   ],
   "shootSound": "shootAltLong",
   "category": "turret",
