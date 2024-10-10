@@ -3,6 +3,6 @@
 	"name": "Tin",
 	"description": "Used to coat other metals, stopping corrosion. It can also make metals superconductable.",
 	"hardness": 0.1,
-	"cost": 0.5,
+	"cost": 0.1,
 	"color": "dbdce4"
 }
