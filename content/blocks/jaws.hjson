@@ -24,15 +24,18 @@
     "copper": {
        "type": "BasicBulletType",
       "damage": 15,
+      "ammoMultiplier": 1,
       "speed": 5,
       "width": 3,
       "height": 6,
       "frontColor": "c99b6d",
       "backColor": "91704e",
       "shrinkY": 0.10
+      "pierce": "false"
     },
     "graphite": {
       "damage": 33,
+      "ammoMultiplier": 1,
       "speed": 4,
       "type": "BasicBulletType",
       "width": 5,
@@ -40,6 +43,7 @@
       "frontColor": "7babba",
       "backColor": "50707a",
       "shrinkY": 0.10,
+      "pierce": "false"
     },
     "silicon": {
       "damage": 29,
@@ -51,7 +55,7 @@
       "frontColor": "949494",
       "backColor": "#4f4f4f",
       "shrinkY": 0.10,
-      "pierce": true
+      "pierce": "true"
     },
     "plastanium": {
       "damage": 42,
@@ -63,9 +67,10 @@
       "frontColor": "99bd19",
       "backColor": "5d730e",
       "shrinkY": 0.10,
+      "pierce": "false"
     },
     "tin": {
-      "damage": 28,
+      "damage": 19,
       "ammoMultiplier": 5,
       "speed": 11,
       "type": "BasicBulletType",
@@ -74,6 +79,7 @@
       "frontColor": "e8e8e8",
       "backColor": "c4c4c4",
       "shrinkY": 0.10,
+      "pierce": "true"
     }
   },
   "requirements": [
