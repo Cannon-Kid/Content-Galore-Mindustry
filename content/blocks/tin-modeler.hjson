@@ -25,7 +25,7 @@
       "amount": 4
     }
   },
-  "requirements": [
+  "requirements": {
     {
       "item": "copper",
       "amount": 125
@@ -38,7 +38,7 @@
       "item": "graphite",
       "amount": 25
     }
-  ],
+  },
   "category": "crafting",
   "research": "graphite-press",
   },
