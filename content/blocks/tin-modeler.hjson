@@ -26,19 +26,19 @@
     }
   },
   "requirements": [
-    {
-      "item": "copper",
-      "amount": 125
-    },
-    {
-      "item": "lead",
-      "amount": 175
-    },
-    {
-      "item": "graphite",
-      "amount": 25
-    }
-  ]
+        {
+          "item": "copper",
+          "amount": 125
+        },
+        {
+          "item": "lead",
+          "amount": 175
+        },
+        {
+          "item": "graphite",
+          "amount": 1
+        }
+      ]
   "category": "crafting",
   "research": "graphite-press",
   },
