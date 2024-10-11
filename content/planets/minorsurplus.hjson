@@ -31,12 +31,13 @@ atmosphereRadIn: 0
 atmosphereRadOut: 0.3
 accessible: false
 updateLighting: true
-sectorSeed: 0
+sectorSeed: 1
+startSector: 1
 bloom: false
 visible: true
 atmosphereColor: f2f2f2
 iconColor: a8a8a8
-hasAtmosphere: true
+hasAtmosphere: false
 allowWaveSimulation: true
 clearSectorOnLose: true
 allowWaves: true
