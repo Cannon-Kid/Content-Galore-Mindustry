@@ -1,12 +1,14 @@
 {
   "type": "GenericCrafter",
   "name": "Tin Modeler",
-  "description": "Creates tin from copper and lead. Studies don't show how this is possible, but it might be from the machinery that it uses. Although, that does not explain it at all.",
+  "description": "Creates tin from copper and lead. Studies don't show how this is possible, but it might be from the machinery that it uses. Although, that does not explain how it glows at the top.",
   "size": 2,
   "hasPower": false,
   "hasItems": true,
   "hasLiquids": false,
   "craftTime": 60,
+  "craftEffect": "smeltsmoke",
+  "updateEffect": "smeltsmoke",
   "itemCapacity": 10,
   "consumes": {
     "items": {
