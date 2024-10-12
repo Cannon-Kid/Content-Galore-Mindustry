@@ -1,11 +1,11 @@
 planet: "Minorsurplus"
 sector: 1
  research: {
-        parent: "The-craters",
+        parent: "The-Craters",
         objectives: [
             {
                 type: "SectorComplete",
-                preset: "The-craters"
+                preset: "The-Craters"
             }
         ]
     },
