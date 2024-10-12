@@ -1,47 +1,61 @@
-  "localizedName": "Minorsurplus",
-  "generator": "PlanetGenerator",
-  "parent": "serpulo",
-  "iconColor": "a8a8a8",
-  "orbitRadius": 8,
-  "hasAtmosphere": "true",
-  "updateLighting": "false",
-  "atmosphereRadIn": 0.01,
-  "atmosphereRadOut": 0.3,
-  "atmosphereColor": "f2f2f2",
-  "drawOrbit": "true",
-  "accessible": "true",
-  "alwaysUnlocked": "true",
-  "defaultCore": "core-shard",
-  "sectorSeed": 1,
-  "startSector": 1,
-  "sectorSize": 1,
-  "clearSectorOnLose": "true",
-  "allowSectorInvasion": "false",
-  "allowLaunchToNumbered": "false",
-  "radius": 0.4,
-"cloudMesh": {
-  "type": "HexSkyMesh"
-  "planet": "Minorsurplus"
-  "seed": 2
-  "speed": 2
-  "radius": 0.04
-  "divisions": 5
-  "color": "fcb6b1"
-  "octaves": 2
-  "persistence": 1
-  "scl": 2
-  "thresh": 0.45
+localizedName: Minorsurplus
+description: A small, weird planet. Reality-breaking power detected here.
+alwaysUnlocked: true
+mesh: {
+  type: NoiseMesh
+  planet: Minorsurplus
+  seed: 69
+  divisions: 6
+  color1: a8a8a8
+  color2: 707070
+  radius: 0.6
+  octaves: 3
+  persistence: 0.8
+  scale: 1
+  mag: 1.5
 }
-    "mesh": {
-      "type": "NoiseMesh",
-      "planet": "Minorsurplus",
-      "seed": 69,
-      "color1": "a8a8a8",
-      "color2": "707070",
-      "divisions": 4,
-      "radius": 0.2,
-      "octaves": 3,
-      "persistence": 0.8,
-      "scale": 1,
-      "mag": 1.5
-    }
+#cloudMesh: {}
+startSector: 0
+generator: {
+  type: PlanetGenerator
+  octaves: 3
+  persistence: 0.52
+  scale: 22
+  mag: 0.721
+  thresh: 1.152
+  min: 100
+  max: 100
+  radMin: 220
+  radMax: 600
+  iceChance: 0
+  carbonChance: 0.3
+  berylChance: 0
+  ferricChance: 0.7
+}
+sectorSize: 1
+orbitSpacing: 4
+radius: 1.5
+minZoom: 1.8
+allowLaunchSchematics: false
+allowLaunchLoadout: false
+drawOrbit: true
+atmosphereRadIn: 0
+atmosphereRadOut: 0.3
+prebuildBase: false
+accessible: true
+updateLighting: true
+sectorSeed: 6
+bloom: false
+visible: true
+atmosphereColor: f2f2f2
+iconColor: a8a8a8
+hasAtmosphere: true
+allowWaveSimulation: true
+clearSectorOnLose: true
+allowWaves: true
+defaultCore: core-shard
+parent: sun
+solarSystem: sun
+launchCandidates: []
+hiddenItems: ["beryllium", "carbide", "tungsten", "fissile-matter", "oxide"]
+allowLaunchToNumbered: false
