@@ -1,14 +1,8 @@
 planet: Minorsurplus
 sector: 1
 research: {
-        parent: "The-craters",
-        objectives: [
-            {
-                type: "SectorComplete",
-                preset: "The-craters"
-            }
-        ]
-    },
-difficulty: 1,
+    parent: "core-shard"
+}
+difficulty: 1
 alwaysUnlocked: true
 overrideLaunchDefaults: true
