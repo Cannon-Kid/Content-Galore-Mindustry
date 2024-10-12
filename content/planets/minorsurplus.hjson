@@ -1,20 +1,20 @@
 localizedName: Minorsurplus
 description: A small, weird planet. High amounts of reality-breaking power was detected here at some point.
 alwaysUnlocked: true
-mesh: {
-  type: NoiseMesh
-  planet: minorsurplus
-  seed: 69
-  divisions: 4
-  color1: a8a8a8
-  color2: 707070
-  radius: 0.2
-  octaves: 3
-  persistence: 0.8
-  scale: 1
-  mag: 1.5
+"mesh": {
+  "type": NoiseMesh
+  "planet": minorsurplus
+  "seed": 69
+  "divisions": 4
+  "color1": a8a8a8
+  "color2": 707070
+  "radius": 0.2
+  "octaves": 3
+  "persistence": 0.8
+  "scale": 1
+  "mag": 1.5
 }
-#cloudMesh: {}
+cloudMesh: {}
 generator: {
   min: 100
   max: 100
@@ -23,25 +23,28 @@ generator: {
   seed: 69420
   berylChance: 0
 }
-orbitSpacing: 8
-radius: 0.4
-minZoom: 1.8
-drawOrbit: true
-atmosphereRadIn: 0
-atmosphereRadOut: 0.3
-accessible: false
-updateLighting: true
-sectorSeed: 1
-startSector: 1
-bloom: false
-visible: true
-atmosphereColor: f2f2f2
-iconColor: a8a8a8
-hasAtmosphere: false
-allowWaveSimulation: true
-clearSectorOnLose: true
-allowWaves: true
-defaultCore: core-shard
-parent: serpulo
-solarSystem: sun
+orbitSpacing: 8,
+radius: 0.4,
+minZoom: 1.8,
+drawOrbit: true,
+atmosphereRadIn: 0,
+atmosphereRadOut: 0.3,
+accessible: false,
+updateLighting: true,
+sectorSeed: 1,
+startSector: 1,
+sectorSize: 1,
+bloom: false,
+visible: true,
+atmosphereColor: f2f2f2,
+iconColor: a8a8a8,
+hasAtmosphere: false,
+allowWaveSimulation: true,
+clearSectorOnLose: true,
+allowSectorInvasion: false,
+allowLaunchToNumbered: false,
+allowWaves: true,
+defaultCore: "core-shard",
+parent: serpulo,
+solarSystem: sun,
 launchCandidates: []
