@@ -3,8 +3,12 @@
 - Jaws Created and Balenced
 - Balenced Foil AGAIN
 - Buffed Tin Cost from 0.5 to 0.1
+- Minorsurplus Planet Created... sorry if it looks kinda bad
+- Harvest Sector Created, Basically the First Minorsurplus Sector
+- Nadir Unit Created, Basically Zenith But Better
+- EXPERIMENT 001 Appears... Something Blocking Transmission Signal
 
-Total things finished: 4
+Total things finished: 9
 
 Item | Cadmium: Used in power-related things, as well as metal coating, alloys, and pigments.
 
@@ -15,6 +19,14 @@ Turret | Foil: Shoots pure electricity lightning. Great at handling low-tier uni
 Production | Tin Modeler: Creates tin from copper and lead. Studies don't show how this is possible, but it might be from the power inputted and the machinery that it uses.
 
 Turret | Jaws
+
+Planet | Minorsurplus
+
+Sector | Harvest
+
+Unit | Nadir
+
+Sector | EXPERIMENT 001
 
 ![image](https://github.com/user-attachments/assets/d7ffe97d-69c4-4ed9-b2ad-987cc43f6179) Old Design
 
