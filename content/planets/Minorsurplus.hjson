@@ -14,7 +14,19 @@ alwaysUnlocked: true
   "scale": 1
   "mag": 1.5
 }
-cloudMesh: {}
+cloudMesh: {
+  type: HexSkyMesh
+  planet: Minorsurplus
+  seed: 2
+  speed: 3
+  radius: 0.05
+  divisions: 5
+  color: fcb6b1
+  octaves: 2
+  persistence: 1
+  scl: 2
+  thresh: 0.45
+}
 generator: {
   min: 100
   max: 100
