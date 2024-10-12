@@ -1,7 +1,7 @@
 {
   "localizedName": "EXPERIMENT 001",
-  "description": "An unknown sector. Defend against 20 waves, with grounded enemies being Spore Slowed.",
-  "difficulty": 4,
+  "description": "An unknown sector. Defend against 20 waves, with grounded enemies being Spore Slowed. Though, unknown data of a unit named Nadir was detected here.",
+  "difficulty": 5,
   "planet": "Minorsurplus",
   "captureWave": 21,
   "sector": 1,
