@@ -1,5 +1,5 @@
 localizedName: Minorsurplus
-description: A small weird planet. High amounts of reality-breaking power was detected here at some point.
+description: A small, weird planet. High amounts of reality-breaking power was detected here at some point.
 alwaysUnlocked: true
 mesh: {
   type: NoiseMesh
