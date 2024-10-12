@@ -1,4 +1,5 @@
 planet: "Minorsurplus"
+localizedName: Harvest
 sector: 1
 research: {
   parent: "core-shard"
