@@ -1,0 +1,35 @@
+{
+  "type": "flying",
+  "flying": true,
+  "name": "Extinguish",
+  "description": "A Flare-like unit, only... With a weaker body, but more powerful weapons and powerful engines. Flare is called the annoying fly, but Extinguish is taking that to the extreme.",
+  "speed": 5,
+  "accel": 0.1,
+  "drag": 0.03,
+  "health": 60,
+  "engineOffset": 5.75,
+  "targetFlags": ["generator"],
+  "hitSize": 9,
+  "itemCapacity": 10,
+  "weapons": [
+    {
+      "y": 0,
+      "x": 2,
+      "reload": 15,
+      "ejectEffect": "casing1",
+      "shootSound": "pew",
+      "bullet": {
+        "type": "BasicBulletType",
+        "speed": 2.5,
+        "damage": 13,
+        "width": 7,
+        "height": 9,
+        "lifetime": 45,
+        "shootEffect": "shootSmall",
+        "smokeEffect": "shootSmallSmoke",
+        "frontColor": "ff69b6",
+        "backColor": "9c406f"
+      }
+    }
+  ]
+}
