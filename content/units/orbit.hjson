@@ -7,7 +7,7 @@
   "speed": 0.5,
   "accel": 0.05,
   "drag": 0.015,
-  "range": 230,
+  "range": 140,
   "hitSize": 16,
   "lowAltitude": true,
   "forceMultiTarget": true,
@@ -15,9 +15,7 @@
   "targetFlags": ["battery"],
   "engineOffset": 10,
   "engineSize": 3,
-  "RegenAbility": [
-  "amount" 1
-                  ]
+  "RegenAbility": {"amount": 1}
   "weapons": [
     {
       "name": "orbit-cannon",
@@ -37,8 +35,8 @@
         "damage": 15,
         "status": "electrified",
         "statusDuration": 45,
-        "width": 20,
-        "length": 230,
+        "width": 40,
+        "length": 140,
         "shootEffect": "shockwave",
         "colors": ["9c406f", "ff69b6", "ffffff"],
       }
