@@ -3,7 +3,7 @@ description: A small, weird planet. High amounts of reality-breaking power was d
 alwaysUnlocked: true
 "mesh": {
   "type": NoiseMesh
-  "planet": minorsurplus
+  "planet": Minorsurplus
   "seed": 69
   "divisions": 4
   "color1": a8a8a8
