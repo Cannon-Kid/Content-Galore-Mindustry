@@ -1,4 +1,4 @@
-planet: Minorsurplus
+planet: "Minorsurplus"
 sector: 1
 research: {
     parent: "core-shard"
