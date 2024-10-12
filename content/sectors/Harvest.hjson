@@ -1,9 +1,9 @@
-planet: "Minorsurplus"
-localizedName: "Harvest"
-sector: 1
-research: {
-  parent: "core-shard"
+"planet": "Minorsurplus"
+"localizedName": "Harvest"
+"sector": 1
+"research": {
+  "parent": "core-shard"
 }
-difficulty: 1
-alwaysUnlocked: "true"
-overrideLaunchDefaults: "true"
+"difficulty": 1
+"alwaysUnlocked": "true"
+"overrideLaunchDefaults": "true"
