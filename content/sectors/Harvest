@@ -1,8 +1,0 @@
-planet: Minorsurplus
-sector: 1
-research: {
-    parent: scatter
-}
-difficulty: 1
-alwaysUnlocked: true
-overrideLaunchDefaults: true
