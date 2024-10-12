@@ -1,0 +1,20 @@
+{
+  "localizedName": "EXPERIMENT 001",
+  "description": "An unknown sector. Defend against 20 waves, with grounded enemies being Spore Slowed.",
+  "difficulty": 4,
+  "planet": "Minorsurplus",
+  "captureWave": 21,
+  "sector": 1,
+ research: {
+        parent: "Harvest",
+        objectives: [
+              {
+                type: "SectorComplete",
+                preset: "Harvest"
+              }
+                    ]
+           },
+  "allowLaunchLoadout": "true",
+  "addStartingItems": "true",
+  "noLighting": "true"
+}
