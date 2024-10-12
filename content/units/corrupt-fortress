@@ -1,0 +1,42 @@
+{
+  "name": "Prosecution",
+  "type": "mech",
+  "description": "A more offensive version of the Fortress unit. It sacrificed defense for offense.",
+  "speed": 0.75,
+  "hitSize": 13,
+  "rotateSpeed": 4,
+  "targetAir": false,
+  "health": 850,
+  "armor": 8,
+  "mechFrontSway": 0.55,
+  "weapons": [
+    {
+      "name": "corrupt-artillery",
+      "top": false,
+      "y": 1,
+      "x": 9,
+      "reload": 30,
+      "recoil": 3,
+      "shake": 2,
+      "ejectEffect": "casing2",
+      "shootSound": "artillery",
+      "bullet": {
+        "type": "ArtilleryBulletType",
+        "hitEffect": "blastExplosion",
+        "knockback": 1.2,
+        "lifetime": 140,
+        "sprite": "shell",
+        "speed": 2.2,
+        "damage": 36,
+        "width": 14,
+        "height": 14,
+        "collides": true,
+        "collidesTiles": true,
+        "splashDamageRadius": 52,
+        "splashDamage": 115,
+        "backColor": "9c406f",
+        "frontColor": "ff69b6"
+      }
+    } 
+  ]
+}
