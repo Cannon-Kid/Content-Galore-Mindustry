@@ -1,0 +1,48 @@
+{
+  "type": "flying",
+  "flying": true,
+  "name": "Orbit",
+  "description": "A very HEAVILY protected hard-to-take-out unit. Self-heals. Also shoots lasers that slow speed and slow reload speed. Cool.",
+  "health": 1100,
+  "speed": 0.5,
+  "accel": 0.05,
+  "drag": 0.015,
+  "flying": true,
+  "range": 230,
+  "hitSize": 16,
+  "lowAltitude": true,
+  "forceMultiTarget": true,
+  "armor": 6,
+  "targetFlags": ["battery"],
+  "engineOffset": 10,
+  "engineSize": 3,
+  "RegenAbility": [
+  "amount": 1
+                  ]
+  "weapons": [
+    {
+      "name": "orbit-cannon",
+      "reload": 90,
+      "x": 7,
+      "rotate": true,
+      "shake": 1,
+      "shoot": {
+        "shots": 1,
+        "shotDelay": 0
+      },
+      "velocityRnd": 0.2,
+      "shootSound": "lancerLaserShoot",
+      "inaccuracy": 0,
+      "bullet": {
+        "type": "LaserBulletType",
+        "damage": 15,
+        "status": "electrified",
+        "statusDuration": 45,
+        "width": 20,
+        "length": 230,
+        "shootEffect": "shockwave",
+        "colors": ["9c406f", "ff69b6", "ffffff"],
+      }
+    }
+  ]
+}
