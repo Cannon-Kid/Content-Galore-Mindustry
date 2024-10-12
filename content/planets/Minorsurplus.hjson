@@ -13,6 +13,7 @@ mesh: {
   persistence: 0.8
   scale: 1
   mag: 1.5
+}
 cloudMesh: {
   type: HexSkyMesh
   planet: Minorsurplus
