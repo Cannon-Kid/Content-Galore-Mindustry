@@ -1,7 +1,7 @@
 {
   "localizedName": "Harvest",
   "description": "A tiny crater, found out to be the only safe landing spot on Minorsurplus without causing all hell to break out. Though, a few Crux units may spot you here. Gather resourses, defend, then launch to the next sector.",
-  "difficulty": 2,
+  "difficulty": 1,
   "planet": "Minorsurplus",
   "sector": 0,
   "allowLaunchLoadout": true,
