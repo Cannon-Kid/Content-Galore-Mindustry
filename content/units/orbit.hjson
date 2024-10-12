@@ -16,7 +16,7 @@
   "engineOffset": 10,
   "engineSize": 3,
   "Ability": [
-  "RegenAbility": {"amount": 30} ]
+  "RegenAbility": "amount": 30 ]
   "weapons": [
     {
       "name": "orbit-cannon",
