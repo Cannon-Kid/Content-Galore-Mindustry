@@ -1,0 +1,56 @@
+{
+  "type": "flying",
+  "flying": true,
+  "name": "Nadir",
+  "description": "A Zenith-like unit that is stronger than the regular Zenith. But... It certainly looks odd. Like it's corrupt.",
+  "health": 1000,
+  "speed": 2,
+  "accel": 0.05,
+  "drag": 0.015,
+  "flying": true,
+  "range": 140,
+  "hitSize": 20,
+  "lowAltitude": true,
+  "forceMultiTarget": true,
+  "armor": 6,
+  "targetFlags": ["launchPad", "storage", "battery"],
+  "engineOffset": 12,
+  "engineSize": 3,
+  "weapons": [
+    {
+      "name": "corrupt-zenith-missiles",
+      "reload": 35,
+      "x": 7,
+      "rotate": true,
+      "shake": 1,
+      "shoot": {
+        "shots": 4,
+        "shotDelay": 7
+      },
+      "velocityRnd": 0.2,
+      "shootSound": "missile",
+      "inaccuracy": 4,
+      "bullet": {
+        "type": "MissileBulletType",
+        "speed": 3,
+        "damage": 10,
+        "width": 8,
+        "height": 8,
+        "shrinkY": 0,
+        "drag": -0.003,
+        "homingRange": 60,
+        "keepVelocity": false,
+        "splashDamageRadius": 34,
+        "splashDamage": 21,
+        "lifetime": 50,
+        "trailColor": "e05ca0",
+        "backColor": "9c406f",
+        "frontColor": "ff69b6",
+        "hitEffect": "blastExplosion",
+        "despawnEffect": "blastExplosion",
+        "weaveScale": 6,
+        "weaveMag": 1
+      }
+    }
+  ]
+}
