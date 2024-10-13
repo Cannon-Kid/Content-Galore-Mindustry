@@ -31,7 +31,7 @@
       "inaccuracy": 0,
       "bullet": {
         "type": "LaserBulletType",
-        "damage": 138,
+        "damage": 108,
         "status": "electrified",
         "statusDuration": 30,
         "width": 40,
