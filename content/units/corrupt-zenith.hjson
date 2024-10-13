@@ -7,7 +7,6 @@
   "speed": 2,
   "accel": 0.05,
   "drag": 0.015,
-  "flying": true,
   "range": 140,
   "hitSize": 20,
   "lowAltitude": true,
@@ -19,12 +18,12 @@
   "weapons": [
     {
       "name": "corrupt-zenith-missiles",
-      "reload": 35,
+      "reload": 30,
       "x": 7,
       "rotate": true,
       "shake": 1,
       "shoot": {
-        "shots": 4,
+        "shots": 2,
         "shotDelay": 7
       },
       "velocityRnd": 0.2,
@@ -33,7 +32,7 @@
       "bullet": {
         "type": "MissileBulletType",
         "speed": 3,
-        "damage": 10,
+        "damage": 21,
         "width": 8,
         "height": 8,
         "shrinkY": 0,
@@ -41,7 +40,7 @@
         "homingRange": 60,
         "keepVelocity": false,
         "splashDamageRadius": 34,
-        "splashDamage": 21,
+        "splashDamage": 29,
         "lifetime": 50,
         "trailColor": "e05ca0",
         "backColor": "9c406f",
