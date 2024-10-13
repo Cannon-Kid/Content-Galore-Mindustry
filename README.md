@@ -8,7 +8,7 @@
 - Nadir Unit Created, Basically Zenith But Better
 - EXPERIMENT 001 Appears... Something Blocking Transmission Signal
 
-Total things finished: 9
+Total things finished: 10
 
 Item | Cadmium: Used in power-related things, as well as metal coating, alloys, and pigments.
 
@@ -27,6 +27,8 @@ Sector | Harvest
 Unit | Nadir
 
 Sector | EXPERIMENT 001
+
+Unit | Orbit
 
 ![image](https://github.com/user-attachments/assets/d7ffe97d-69c4-4ed9-b2ad-987cc43f6179) Old Design
 
