@@ -4,7 +4,7 @@
   "name": "Orbit",
   "description": "A very HEAVILY protected hard-to-take-out unit. Self-heals. Also shoots lasers that slow speed and slow reload speed. Cool.",
   "health": 1300,
-  "speed": 0.9,
+  "speed": 1.1,
   "accel": 0.05,
   "drag": 0.015,
   "range": 140,
