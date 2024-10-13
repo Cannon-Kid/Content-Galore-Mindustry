@@ -1,1 +1,20 @@
-
+{
+  "localizedName": "The Snow Pit",
+  "description": "One of the only small, snowy sectors. Sports good resourses. Defend against 20 waves, with an air raid on wave 10, and a ground raid on wave 20. This can be a useful sector when captured.",
+  "difficulty": 4,
+  "planet": "Minorsurplus",
+  "captureWave": 21,
+  "sector": 2,
+ research: {
+        parent: "Harvest",
+        objectives: [
+              {
+                type: "SectorComplete",
+                preset: "Harvest"
+              }
+                    ]
+           },
+  "allowLaunchLoadout": "true",
+  "addStartingItems": "true",
+  "noLighting": "true"
+}
