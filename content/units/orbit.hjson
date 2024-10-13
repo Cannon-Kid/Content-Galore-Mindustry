@@ -31,9 +31,9 @@
       "inaccuracy": 0,
       "bullet": {
         "type": "LaserBulletType",
-        "damage": 108,
+        "damage": 118,
         "status": "electrified",
-        "statusDuration": 30,
+        "statusDuration": 15,
         "width": 40,
         "length": 140,
         "shootEffect": "shockwave",
