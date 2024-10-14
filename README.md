@@ -8,6 +8,7 @@
 - Nadir Unit Created, Basically Zenith But Better
 - EXPERIMENT 001 Appears... Something Blocking Transmission Signal
 - Orbit Created, Tank in a Nutshell
+- The Snow Pit Sector Created, Basically The Craters 2.0
 - Create Extinguish = Flare 2.0
 - Nexus Created, Likes Bombs and Frag Bullets
 - Lag Created, Poly but MELEEEEEEE
