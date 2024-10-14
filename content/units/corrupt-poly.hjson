@@ -1,0 +1,57 @@
+{
+  "type": "flying",
+  "flying": true,
+  "name": "Lag",
+  "description": "Lag is a type of Poly, but instead of being support, it trades off most of it's supporting qualities for more offense. However, Lag retains it's healing ability. Also, don't worry, Lag is able to carry items, meaning spore bombing is an option!",
+  "speed": 3.6,
+  "accel": 0.1,
+  "drag": 0.04,
+  "health": 390,
+  "engineOffset": 5.75,
+  "hitSize": 9,
+  "itemCapacity": 30,
+    "abilities": [
+    {
+      "type": "RepairFieldAbility", 
+      "range": 200, 
+      "amount": 15, 
+      "reload": 60, 
+      "activeEffect": {
+        "type": "WaveEffect", 
+        "sizeFrom": 0, 
+        "sizeTo": 100, 
+        "colorFrom": "9c406f", 
+        "colorTo": "ff69b6"
+                      }
+    },
+  ],
+  "weapons": [
+    {
+      "y": 0,
+      "x": 0,
+      "reload": 10,
+      "shootSound": "missile",
+      "bullet": {
+        "type": "MissileBulletType",
+        "speed": 3,
+        "damage": 5,
+        "width": 8,
+        "height": 8,
+        "shrinkY": 0,
+        "drag": -0.003,
+        "homingRange": 60,
+        "keepVelocity": false,
+        "splashDamageRadius": 20,
+        "splashDamage": 7,
+        "lifetime": 50,
+        "trailColor": "e05ca0",
+        "backColor": "9c406f",
+        "frontColor": "ff69b6",
+        "hitEffect": "blastExplosion",
+        "despawnEffect": "blastExplosion",
+        "weaveScale": 6,
+        "weaveMag": 1
+      }
+    }
+  ]
+}
