@@ -1,0 +1,73 @@
+localizedName: Chapter One - The Star Rail
+description: A map of a universe, represented by a planet just like Minorsurplus.
+alwaysUnlocked: true
+mesh: {
+  type: NoiseMesh
+  planet: Minorsurplus
+  seed: 69
+  divisions: 6
+  color1: a8a8a8
+  color2: 707070
+  radius: 0.6
+  octaves: 3
+  persistence: 0.8
+  scale: 1
+  mag: 1.5
+}
+cloudMesh: {
+  type: HexSkyMesh
+  planet: Minorsurplus
+  seed: 2
+  speed: 2
+  radius: 0.05
+  divisions: 5
+  color: fab2ac
+  octaves: 2
+  persistence: 1
+  scl: 2
+  thresh: 0.45
+}
+startSector: 0
+generator: {
+  type: PlanetGenerator
+  octaves: 3
+  persistence: 0.52
+  scale: 22
+  mag: 0.721
+  thresh: 1.152
+  min: 100
+  max: 100
+  radMin: 220
+  radMax: 600
+  iceChance: 0
+  carbonChance: 0.5
+  berylChance: 0.5
+  ferricChance: 0
+}
+sectorSize: 1
+orbitSpacing: 4
+radius: 0.8
+minZoom: 1.8
+allowLaunchSchematics: false
+allowLaunchLoadout: false
+drawOrbit: true
+atmosphereRadIn: 0
+atmosphereRadOut: 0.3
+prebuildBase: false
+accessible: true
+updateLighting: true
+sectorSeed: 6
+bloom: false
+visible: true
+atmosphereColor: f2f2f2
+iconColor: fbbfff
+hasAtmosphere: true
+allowWaveSimulation: true
+clearSectorOnLose: true
+allowWaves: true
+defaultCore: core-shard
+parent: Minorsurplus
+solarSystem: sun
+launchCandidates: []
+hiddenItems: []
+allowLaunchToNumbered: false
