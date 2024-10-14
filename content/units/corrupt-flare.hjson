@@ -1,0 +1,35 @@
+{
+  "type": "flying",
+  "flying": true,
+  "name": "Extinguish",
+  "description": "Extinguish is a better version of Flare. Although Extinguish has less hitpoints, everything else is upgraded, including Extinguish's carry capacity. Flare is known as the annoying fly, but Extinguish takes it a step further.",
+  "speed": 4,
+  "accel": 0.1,
+  "drag": 0.04,
+  "health": 55,
+  "engineOffset": 5.75,
+  "targetFlags": ["generator"],
+  "hitSize": 9,
+  "itemCapacity": 15,
+  "weapons": [
+    {
+      "y": 0,
+      "x": 2,
+      "reload": 20,
+      "ejectEffect": "casing1",
+      "shootSound": "pew",
+      "bullet": {
+        "type": "BasicBulletType",
+        "speed": 2.5,
+        "damage": 15,
+        "width": 7,
+        "height": 9,
+        "lifetime": 45,
+        "shootEffect": "shootSmall",
+        "smokeEffect": "shootSmallSmoke",
+        "frontColor": "ff69b6",
+        "backColor": "9c406f"
+      }
+    }
+  ]
+}
