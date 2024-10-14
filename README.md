@@ -1,3 +1,5 @@
+This is a fan project. Not meant to be official at all.
+
 - Re-Sprited into Mindustry Style
 - Tin Modeler Created and Buffed, Allows for Unlocking Tin, Foil, and Jaws in Campaign
 - Jaws Created and Balenced
