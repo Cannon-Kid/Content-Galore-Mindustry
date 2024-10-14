@@ -1,0 +1,20 @@
+{
+  "localizedName": "EXPERIMENT 029",
+  "description": "Again, an unknown sector, but this time, with way more resourses. That includes Thorium. Defend against 20 waves of only airborne enemies. Data of a unit named Orbit was detected here.",
+  "difficulty": 7,
+  "planet": "Minorsurplus",
+  "captureWave": 21,
+  "sector": 14,
+ research: {
+        parent: "EXPERIMENT-001",
+        objectives: [
+              {
+                type: "SectorComplete",
+                preset: "EXPERIMENT-001"
+              }
+                    ]
+           },
+  "allowLaunchLoadout": "true",
+  "addStartingItems": "true",
+  "noLighting": "true"
+}
