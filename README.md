@@ -52,7 +52,7 @@ Sector | EXPERIMENT 029: NO DATA FOUND
 
 Chapter 1 | Based off of Honkai Star Rail. pls dont do anything to me hoyo
 
-Ch1 Approach Point | Are you ready for Chapter One?
+Sector | Ch1 Approach Point: Are you ready for Chapter One?
 
 ![image](https://github.com/user-attachments/assets/d7ffe97d-69c4-4ed9-b2ad-987cc43f6179) Old Design
 
