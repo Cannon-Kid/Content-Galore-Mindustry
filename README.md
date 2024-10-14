@@ -1,4 +1,4 @@
-This is a fan project. Not meant to be official at all.
+This is a fan project. Not meant to be official at all. Also, yeah, I know Chapter One is literally HSR but a Mindustry fan project. I just hope Hoyo does not bother about this, because this project is unofficial.
 
 - Re-Sprited into Mindustry Style
 - Tin Modeler Created and Buffed, Allows for Unlocking Tin, Foil, and Jaws in Campaign
@@ -47,6 +47,12 @@ Unit | Nexus: Horizon, but it decided carpet bombing was more fun, and hitpoints
 Unit | Lag: Lag is a type of Poly, but instead of being support, it trades off most of it's supporting qualities for more offense. However, Lag retains it's healing ability. Also, don't worry, Lag is able to carry items, meaning spore bombing is an option!
 
 Sector | EXPERIMENT 029: NO DATA FOUND
+
+
+
+Chapter 1 | Based off of Honkai Star Rail. pls dont do anything to me hoyo
+
+Ch1 Approach Point | Are you ready for Chapter One?
 
 ![image](https://github.com/user-attachments/assets/d7ffe97d-69c4-4ed9-b2ad-987cc43f6179) Old Design
 
