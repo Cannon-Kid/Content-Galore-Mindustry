@@ -4,7 +4,7 @@
   "difficulty": 5,
   "planet": "Minorsurplus",
   "captureWave": 21,
-  "sector": 1,
+  "sector": 8,
  research: {
         parent: "Harvest",
         objectives: [
