@@ -1,1 +1,20 @@
-
+{
+  "localizedName": "Ch1 Approach Point",
+  "description": "Strength check. Are you ready for Chapter 1?",
+  "difficulty": 6,
+  "planet": "The Star Rail",
+  "captureWave": 5,
+  "sector": 0,
+ research: {
+        parent: "EXP3RIMENT-Y0U",
+        objectives: [
+              {
+                type: "SectorComplete",
+                preset: "EXP3RIMENT-Y0U"
+              }
+                    ]
+           },
+  "allowLaunchLoadout": "true",
+  "addStartingItems": "true",
+  "noLighting": "true"
+}
