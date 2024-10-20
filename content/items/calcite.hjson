@@ -1,0 +1,8 @@
+{
+	"type": "material",
+	"name": "Calcite",
+	"description": "Calcite is used as the building blocks for a strong building. It can also be used in many other things. It has a wide variety of uses.",
+	"hardness": 3,
+	"cost": 1,
+	"color": "ebeef5"
+}
