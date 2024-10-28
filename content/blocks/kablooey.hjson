@@ -1,0 +1,62 @@
+{
+  "type": "ItemTurret",
+  "name": "Kablooey",
+  "description": "Sure, this turret has a funny name. But do you know what's funnier? DESTROYING THOSE WHO LAUGH. Kablooey is not to be messed with. Although it comsumes many things, its DPS makes up for it, big time.",
+  "health": 2200,
+  "maxAmmo": 60,
+  "reload": 5,
+  "range": 310,
+  "consumes": {
+    "coolant": {
+      "amount": 0.5 
+               },
+              },
+  "shoot": {
+    "type": "ShootAlternate",
+    "shots": 4,
+    "spread": 0,
+    "barrels": 1,
+    "shotDelay": 0
+  },
+  "inaccuracy": 3,
+  "size": 4,
+  "targetAir": "true",
+  "targetGround": "true",
+  "rotateSpeed": 10,
+  "shootSound": "shoot",
+  "buildCostMultiplier": 1,
+  "ammoTypes": {
+    "thorium": {
+      "type": "BasicBulletType",
+      "damage": 25,
+      "ammoMultiplier": 12,
+      "speed": 4,
+      "width": 25,
+      "height": 25,
+      "frontColor": "f9a3c7",
+      "backColor": "f9a3c7",
+      "pierce": "false"
+    },
+    "tungsten": {
+      "damage": 34,
+      "ammoMultiplier": 12,
+      "speed": 4,
+      "type": "BasicBulletType",
+      "width": 25,
+      "height": 25,
+      "frontColor": "7b7b7b",
+      "backColor": "7b7b7b",
+      "pierce": "false"
+    }
+  },
+  "requirements": [
+    "copper/1450",
+    "metaglass/1100",
+    "graphite/450",
+    "surge-alloy/425",
+    "tungsten/450"
+  ],
+  "shootSound": "shootAltLong",
+  "category": "turret",
+  "research": "meltdown"
+}
