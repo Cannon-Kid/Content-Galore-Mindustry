@@ -2,7 +2,7 @@
 	"type": "material",
 	"name": "Travium",
 	"description": "Used in high-tier tech.",
-  "charge": 1.2,
+	"charge": 1.2,
 	"hardness": 8,
 	"cost": 1,
 	"color": "ffffa3"
