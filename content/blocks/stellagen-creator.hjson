@@ -1,0 +1,47 @@
+{
+  "type": "SolidPump",
+  "name": "Stellagen Creator",
+  "description": "A very low-output Stellagen source. Creates Stellagen from a large mass of power.",
+  "health": 650,
+  "result": "stellagen",
+  "hasPower": true,
+  "hasLiquids": true,
+  "size": 2,
+  "pumpAmount": 0.05,
+  "consumes": {
+    "power": 8.67
+  },
+  "requirements": [
+    {
+      "item": "thorium",
+      "amount": 350
+    },
+    {
+      "item": "surge-alloy",
+      "amount": 275
+    },
+    {
+      "item": "phase-fabric",
+      "amount": 225
+    },
+    {
+      "item": "californium",
+      "amount": 400
+    },
+    {
+      "item": "tungsten",
+      "amount": 200
+    }
+  ],
+  "category": "production",
+  "research": {
+  "parent": "water-extractor",
+  "objectives": [
+        {
+            "type": "SectorComplete",
+            "preset": "Ch1-Approach-Point"
+        }
+                ]
+              }
+  "liquidCapacity": 20
+}
