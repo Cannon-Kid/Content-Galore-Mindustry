@@ -1,0 +1,21 @@
+{
+      "name": "Stellagen",
+      "description": "Replicated Stellaron power. Highly unstable, and must be handled with caution. Cannot be used as a coolant, but can handle heat very well.",
+      "heatCapacity": 7.3,
+      "explosiveness": 5.85,
+      "flammability": 0,
+      "temperature": 1.4,
+      "color": "ffcd66",
+      "gasColor": "ffcd66"
+      "research": {
+      "parent": "water",
+      "objectives": [
+        {
+            "type": "SectorComplete",
+            "preset": "Ch1-Approach-Point"
+        }
+                    ]
+                  }
+      "gas": true,
+      "coolant": false,
+}
