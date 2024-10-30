@@ -28,7 +28,7 @@
   "ammoTypes": {
     "thorium": {
       "type": "BasicBulletType",
-      "damage": 180,
+      "damage": 195,
       "ammoMultiplier": 6,
       "speed": 4,
       "lifetime": 90,
@@ -39,7 +39,7 @@
       "pierce": "false"
     },
     "tungsten-content-galore": {
-      "damage": 270,
+      "damage": 290,
       "ammoMultiplier": 6,
       "speed": 4,
       "lifetime": 90,
