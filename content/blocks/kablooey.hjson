@@ -1,14 +1,14 @@
 {
   "type": "ItemTurret",
   "name": "Kablooey",
-  "description": "Sure, this turret has a funny name. But do you know what's funnier? DESTROYING THOSE WHO LAUGH. Kablooey is not to be messed with. Although it comsumes many things, its DPS makes up for it, big time.",
+  "description": "Hurls chunks of items at enemies... Sure, this turret has a funny name. But do you know what's funnier? DESTROYING THOSE WHO LAUGH. Kablooey is not to be messed with. Although it comsumes many things, its DPS makes up for it, big time.",
   "health": 2200,
   "maxAmmo": 60,
   "reload": 5,
   "range": 340,
   "consumes": {
     "coolant": {
-      "amount": 0.5 
+      "amount": 0.1 
                },
               },
   "shoot": {
@@ -28,7 +28,7 @@
   "ammoTypes": {
     "thorium": {
       "type": "BasicBulletType",
-      "damage": 70,
+      "damage": 180,
       "ammoMultiplier": 6,
       "speed": 4,
       "lifetime": 90,
@@ -39,7 +39,7 @@
       "pierce": "false"
     },
     "tungsten-content-galore": {
-      "damage": 110,
+      "damage": 270,
       "ammoMultiplier": 6,
       "speed": 4,
       "lifetime": 90,
