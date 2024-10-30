@@ -1,19 +1,21 @@
 {
   "type": "ItemTurret",
   "name": "Kablooey",
-  "description": "Hurls chunks of items at enemies... Sure, this turret has a funny name. But do you know what's funnier? DESTROYING THOSE WHO LAUGH. Kablooey is not to be messed with. Although it comsumes many things, its DPS makes up for it, big time.",
-  "health": 2100,
+  "description": "Hurls piercing chunks of items at enemies that pierce 3 times... Sure, this turret has a funny name. But do you know what's funnier? DESTROYING THOSE WHO LAUGH. Kablooey is not to be messed with. Although it comsumes many things, its DPS makes up for it, big time.",
+  "health": 1400,
   "maxAmmo": 60,
   "reload": 5,
   "range": 370,
+  "liquidCapacity": 30
+  "coolantMultiplier": 2
   "consumes": {
     "coolant": {
-      "amount": 0.1 
+      "amount": 0.3
                },
               },
   "shoot": {
     "type": "ShootAlternate",
-    "shots": 1,
+    "shots": 3,
     "spread": 0,
     "barrels": 1,
     "shotDelay": 0
@@ -28,19 +30,20 @@
   "ammoTypes": {
     "thorium": {
       "type": "BasicBulletType",
-      "damage": 195,
-      "ammoMultiplier": 6,
+      "damage": 135,
+      "ammoMultiplier": 4,
       "speed": 4,
       "lifetime": 90,
       "width": 25,
       "height": 25,
       "frontColor": "f9a3c7",
       "backColor": "f9a3c7",
-      "pierce": "false"
+      "pierce": "true"
+      "pierceCap": 3
     },
     "tungsten-content-galore": {
-      "damage": 290,
-      "ammoMultiplier": 6,
+      "damage": 185,
+      "ammoMultiplier": 4,
       "speed": 4,
       "lifetime": 90,
       "type": "BasicBulletType",
@@ -48,12 +51,13 @@
       "height": 25,
       "frontColor": "7b7b7b",
       "backColor": "7b7b7b",
-      "pierce": "false"
+      "pierce": "true"
+      "pierceCap": 3
     }
   },
   "requirements": [
     "copper/1450",
-    "metaglass/1100",
+    "metaglass/1300",
     "graphite/450",
     "surge-alloy/425",
     "tungsten-content-galore/450"
