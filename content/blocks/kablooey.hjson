@@ -5,7 +5,7 @@
   "health": 2100,
   "maxAmmo": 60,
   "reload": 5,
-  "range": 340,
+  "range": 360,
   "consumes": {
     "coolant": {
       "amount": 0.1 
