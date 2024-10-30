@@ -2,7 +2,7 @@
   "type": "ItemTurret",
   "name": "Kablooey",
   "description": "Hurls chunks of items at enemies... Sure, this turret has a funny name. But do you know what's funnier? DESTROYING THOSE WHO LAUGH. Kablooey is not to be messed with. Although it comsumes many things, its DPS makes up for it, big time.",
-  "health": 2200,
+  "health": 2100,
   "maxAmmo": 60,
   "reload": 5,
   "range": 340,
@@ -13,7 +13,7 @@
               },
   "shoot": {
     "type": "ShootAlternate",
-    "shots": 4,
+    "shots": 2,
     "spread": 0,
     "barrels": 1,
     "shotDelay": 0
