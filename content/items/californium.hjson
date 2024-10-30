@@ -1,0 +1,10 @@
+{
+	"type": "material",
+	"name": "Californium",
+	"description": "Used in metal detection equipment. Californium is highly radioactive, while easy to destroy.",
+	"hardness": 0.3,
+	"cost": 1,
+	"color": "c1c3d4"
+  "radioactivity": 1
+  "charge": 0.3
+}
