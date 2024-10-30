@@ -7,7 +7,7 @@
   "reload": 5,
   "range": 370,
   "liquidCapacity": 30
-  "coolantMultiplier": 2
+  "coolantMultiplier": 1.5
   "consumes": {
     "coolant": {
       "amount": 1
