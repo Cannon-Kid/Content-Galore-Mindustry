@@ -5,7 +5,7 @@
   "health": 2200,
   "maxAmmo": 60,
   "reload": 5,
-  "range": 310,
+  "range": 340,
   "consumes": {
     "coolant": {
       "amount": 0.5 
@@ -31,6 +31,7 @@
       "damage": 25,
       "ammoMultiplier": 6,
       "speed": 4,
+      "lifetime": 90,
       "width": 25,
       "height": 25,
       "frontColor": "f9a3c7",
@@ -41,6 +42,7 @@
       "damage": 34,
       "ammoMultiplier": 6,
       "speed": 4,
+      "lifetime": 90,
       "type": "BasicBulletType",
       "width": 25,
       "height": 25,
