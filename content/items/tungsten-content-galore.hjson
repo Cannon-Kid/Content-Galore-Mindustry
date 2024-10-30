@@ -1,0 +1,8 @@
+{
+	"type": "material",
+	"name": "Tungsten",
+	"description": "Used in anything durability related. Tungsten is not easy to damage, nor is it easy to drill for. Different than Vanilla Tungsten.",
+	"hardness": 5,
+	"cost": 1,
+	"color": "7b7b7b"
+}
