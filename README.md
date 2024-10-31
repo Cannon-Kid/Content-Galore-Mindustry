@@ -15,6 +15,11 @@ This is a fan project. Not meant to be official at all. Also, yeah, I know Chapt
 - Nexus Created, Likes Bombs and Frag Bullets
 - Lag Created, Poly but MELEEEEEEE
 - EXPERIMENT 029 Appears... New Weird Unit that the Corruption Created?
+- New Sector... Weird Power Detected...
+- CHAPTER 1: THE STAR RAIL Has Been Created
+- Ch1 Approach Point Has Been Added. The Gateway To Chapter 1, Are You Ready?
+- A Bunch Of New Items Added (Calcite, Californium, Travium, (Content Galore's) Tungsten)
+- Some Blocks Added
 
 Total things finished: 15
 
