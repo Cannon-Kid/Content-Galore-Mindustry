@@ -1,7 +1,7 @@
 {
 	"type": "material",
 	"name": "Travium",
-	"description": "Used in high-tier tech.",
+	"description": "Used in high-tier tech. Found in some 'heavenly' place.",
 	"charge": 1.2,
 	"hardness": 8,
 	"cost": 1,
